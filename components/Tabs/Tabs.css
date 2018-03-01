@@ -1,3 +1,9 @@
+.Tabs__header {
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
 .Tabs__item {
   display: none;
 }
